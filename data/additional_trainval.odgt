@@ -1,0 +1,3 @@
+{"file_name": "add_1.jpg", "gtboxes": [{"tag": "person", "box": [1253, 228, 3273, 3072]}, {"tag": "cell phone", "box": [1773, 839, 2340, 1542]}], "width": 4096, "height": 3072, "hoi": []}
+{"file_name": "add_2.jpg", "gtboxes": [{"tag": "person", "box": [1030, 31, 3168, 3071]}, {"tag": "cell phone", "box": [2254, 1649, 2821, 2322]}], "width": 4096, "height": 3072, "hoi": []}
+{"file_name": "add_3.jpg", "gtboxes": [{"tag": "person", "box": [870, 28, 3130, 3072]}, {"tag": "cell phone", "box": [2033, 1854, 2577, 2784]}], "width": 4096, "height": 3072, "hoi": []}

@@ -1,0 +1,8 @@
+checkpoint/checkpoint.pth 
+./log\result_s672_e007_hico_resnet50.json 
+checkpoint/checkpoint.pth 
+./log\result_s672_e007_hico_resnet50.json 
+checkpoint/checkpoint.pth 
+./log\result_s672_e016_hico_resnet50.json 
+checkpoint/checkpoint.pth 
+./log\result_s672_e016_hico_resnet50.json 
